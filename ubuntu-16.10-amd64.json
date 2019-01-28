@@ -250,7 +250,7 @@
   "variables": {
     "box_basename": "ubuntu-16.10",
     "build_timestamp": "{{isotime \"20060102150405\"}}",
-    "cpus": "1",
+    "cpus": "2",
     "disk_size": "40960",
     "git_revision": "__unknown_git_revision__",
     "headless": "",
@@ -259,7 +259,7 @@
     "iso_checksum": "72b0d421da77f1e0c549b4efe6fc6c184e9909d6792f0d1e59b56d63e9705659",
     "iso_checksum_type": "sha256",
     "iso_name": "ubuntu-16.10-server-amd64.iso",
-    "memory": "512",
+    "memory": "6144",
     "metadata": "floppy/dummy_metadata.json",
     "mirror": "http://releases.ubuntu.com",
     "mirror_directory": "16.10",
